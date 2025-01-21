@@ -28,17 +28,6 @@
 
 ---
 
-## 🌐 Connect With Me  
-
-<p align="center">
-  <a href="mailto:a15tejasri@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/96/000000/gmail.png" alt="Email" />
-  </a>
-  <a href="[https://www.linkedin.com/in/tejasriaddagiri](https://www.linkedin.com/in/tejasri-addagiri/)" target="_blank">
-    <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn" />
-  </a>
- 
-</p>
 
 ---
 
